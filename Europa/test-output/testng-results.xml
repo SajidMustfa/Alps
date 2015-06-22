@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20" started-at="2015-06-22T10:57:57Z" finished-at="2015-06-22T10:57:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20" started-at="2015-06-22T10:57:57Z" finished-at="2015-06-22T10:57:57Z">
+      <class name="org.testlib.LaunchTest">
+        <test-method status="PASS" signature="launchtest1()[pri:0, instance:org.testlib.LaunchTest@1082746]" name="launchtest1" duration-ms="10" started-at="2015-06-22T16:27:57Z" finished-at="2015-06-22T16:27:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchtest1 -->
+      </class> <!-- org.testlib.LaunchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

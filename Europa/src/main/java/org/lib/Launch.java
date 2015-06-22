@@ -6,5 +6,9 @@ public class Launch {
 		// TODO Auto-generated method stub
 			System.out.println("hi");
 	}
+	
+	public String Ukey(){
+		return "S";
+	}
 
 }
